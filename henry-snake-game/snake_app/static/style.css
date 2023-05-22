@@ -1,0 +1,21 @@
+.child {
+    position:relative;
+    margin:0 auto;
+    clear:left;
+    height:auto;
+    z-index: 0;
+    text-align:center;/* Add This*/
+    font-family: "Raleway",sans-serif;
+    color : white;
+}
+h2{
+font-family: "Raleway", sans-serif;
+}
+body{
+background-color: #166d3b;
+background-image: linear-gradient(147deg, #166d3b 0%, #000000 74%);;
+
+background-attachment: fixed;
+    background-size: cover;
+    height: auto;
+}
